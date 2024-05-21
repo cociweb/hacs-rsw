@@ -1,0 +1,9 @@
+{
+  "domain": "rsw",
+  "name": "Custom REST switch",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/rest",
+  "iot_class": "local_polling",
+  "version": "1.0.0",
+  "requirements": ["requests"]
+}
